@@ -1,7 +1,7 @@
 ### Oi, eu sou o Carlos Araújo 👋
 
 Sou graduado em Engenharia Elétrica e atualmente estou em processo de formação em desenvolvimento full stack na
-<img witdh="180px" src="https://www.betrybe.com/static/images/logo-negative-green.svg"/>
+<img witdh="100px" src="https://www.betrybe.com/static/images/logo-negative-green.svg"/>
 
 <div align="center">
   <a href="https://github.com/stonefullstm">
