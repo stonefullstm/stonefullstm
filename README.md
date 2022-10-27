@@ -7,6 +7,8 @@ About me:
 - 📫 How to reach me: stonefull.stm@gmail.com
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
           
 <div align="center">
   <a href="https://github.com/stonefullstm">
