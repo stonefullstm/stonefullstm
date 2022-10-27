@@ -6,7 +6,7 @@ About me:
 - 🌱 I’m currently learning FullStack Development on <a href="https://betrybe.com">Trybe</a>
 - 📫 How to reach me: stonefull.stm@gmail.com
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img with="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 <div align="center">
   <a href="https://github.com/stonefullstm">
