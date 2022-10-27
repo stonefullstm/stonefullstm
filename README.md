@@ -1,24 +1,13 @@
-### Oi, eu sou o Carlos Araújo 👋
+### Hi, I am Carlos Araújo 👋
 
-Sou graduado em Engenharia Elétrica e atualmente estou em processo de formação em desenvolvimento full stack na
-<img witdh="100px" src="https://www.betrybe.com/static/images/logo-negative-green.svg"/>
+About me:
+
+- 🔭 I’m currently working on <a href="https://www.senaipa.org.br/">SENAI</a>
+- 🌱 I’m currently learning FullStack Development on <a href="https://betrybe.com">Trybe</a>
+- 📫 How to reach me: stonefull.stm@gmail.com
 
 <div align="center">
   <a href="https://github.com/stonefullstm">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=stonefullstm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonefullstm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<!--
-**stonefullstm/stonefullstm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
