@@ -5,10 +5,10 @@ About me:
 - 🔭 I’m currently working on <a href="https://www.senaipa.org.br/">SENAI</a>
 - 🌱 I’m currently learning FullStack Development on <a href="https://betrybe.com">Trybe</a>
 - 📫 How to reach me: stonefull.stm@gmail.com
-
+<div display="inline-block">
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
+</div>          
           
 <div align="center">
   <a href="https://github.com/stonefullstm">
