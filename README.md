@@ -1,6 +1,6 @@
 ### Hi, I am Carlos Araújo 👋
 
-About me:
+### About me:
 
 - 🔭 I’m currently working on <a href="https://www.senaipa.org.br/">SENAI</a>
 - 🌱 I’m currently learning FullStack Development on <a href="https://betrybe.com">Trybe</a>
@@ -21,3 +21,6 @@ About me:
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=stonefullstm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonefullstm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+### Publicações no Medium:
+[![Medium Carlos Araújo](https://github-readme-medium.vercel.app/?username=stonefull.stm)](https://medium.com/@stonefull.stm)
