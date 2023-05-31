@@ -2,8 +2,8 @@
 
 ### About me:
 
-- 🔭 I’m currently working on <a href="https://www.senaipa.org.br/">SENAI</a>
-- 🌱 I’m currently learning FullStack Development on <a href="https://betrybe.com">Trybe</a>
+- 🔭 I’m currently looking for an opportunity
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me: stonefull.stm@gmail.com
 <div display="inline-block">
   <img width="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
