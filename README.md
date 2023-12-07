@@ -2,8 +2,8 @@
 
 ### About me:
 
-- 🔭 I’m currently looking for an opportunity
-- 🌱 I’m currently learning Análise de Dados (Google)
+- 🔭 I’m currently working in a big project
+- 🌱 I’m currently learning a lot of things
 - 📫 How to reach me: stonefull.stm@gmail.com
 <div display="inline-block">
   <img width="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
