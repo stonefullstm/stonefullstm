@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working in a big project
+- 🔭 I’m currently working in a personal project using Django and Angular
 - 🌱 I’m currently learning a lot of things
 - 📫 How to reach me: stonefull.stm@gmail.com
 <div display="inline-block">
