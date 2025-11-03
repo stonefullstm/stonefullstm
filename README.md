@@ -29,5 +29,5 @@
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonefullstm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Publicações no Medium:
-[![Medium Carlos Araújo](https://github-readme-medium.vercel.app/?username=stonefull.stm)](https://medium.com/@stonefull.stm)
+### Publicações no Blogger:
+[Blogger Carlos Araújo](https://professorcarlos.blogspot.com/2025/11/como-automatizar-suas-financas-pessoais.html)
