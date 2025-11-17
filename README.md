@@ -30,4 +30,4 @@
 </div>
 
 ### Publicações no Blogger:
-[Blogger Carlos Araújo](https://professorcarlos.blogspot.com/2025/11/como-automatizar-suas-financas-pessoais.html)
+[Blogger Carlos Araújo](https://professorcarlos.blogspot.com/2025/11/como-criar-um-bot-telegram-para-atualizar-planilha-financeira-Google-Sheets.html)
