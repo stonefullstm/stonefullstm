@@ -30,4 +30,4 @@
 </div>
 
 ### Publicações no Blogger:
-[Blogger Carlos Araújo](https://professorcarlos.blogspot.com/2025/12/melhorando-seu-assistente-financeiro-registre-despesas-usando-ia.html)
+[Blogger Carlos Araújo](https://professorcarlos.blogspot.com/2025/12/integrando-python-e-chatgpt-com-libreoffice-calc.html)
