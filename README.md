@@ -29,5 +29,5 @@
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonefullstm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Publicações no Blogger:
+### Posts on Blogger:
 [Blogger Carlos Araújo](https://professorcarlos.blogspot.com/2025/12/integrando-python-e-chatgpt-com-libreoffice-calc.html)
