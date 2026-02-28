@@ -25,7 +25,7 @@
           
 <div align="center">
   <a href="https://github.com/stonefullstm">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=stonefullstm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="42%" height="180em" src="https://github-stats-extended.vercel.app/api?username=stonefullstm&include_all_commits=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonefullstm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
