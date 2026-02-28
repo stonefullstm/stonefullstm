@@ -30,4 +30,4 @@
 </div>
 
 ### Posts on Blogger:
-[Blogger Carlos Araújo](https://professorcarlos.blogspot.com/2025/12/integrando-python-e-chatgpt-com-libreoffice-calc.html)
+[Blogger Carlos Araújo](https://professorcarlos.blogspot.com/2026/02/relatorio-financeiro-automatico-no-e-mail-com-apps-script-e-ia.html)
